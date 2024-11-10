@@ -1,0 +1,59 @@
+,targetrets,targetvols,targetsharpe,arithmetic surplus 3,arithmetic surplus 2,arithmetic surplus,type
+0,4.3,3.04,1.42,-2.7,-1.7000000000000002,-0.7300000000000004,efficient frontier
+1,4.55,3.12,1.46,-2.45,-1.4500000000000002,-0.4800000000000004,efficient frontier
+2,4.8,3.31,1.45,-2.2,-1.2000000000000002,-0.23000000000000043,efficient frontier
+3,5.04,3.59,1.41,-1.96,-0.96,0.009999999999999787,efficient frontier
+4,5.29,3.93,1.35,-1.71,-0.71,0.2599999999999998,efficient frontier
+5,5.54,4.38,1.26,-1.46,-0.45999999999999996,0.5099999999999998,efficient frontier
+6,5.79,5.13,1.13,-1.21,-0.20999999999999996,0.7599999999999998,efficient frontier
+7,6.03,6.09,0.99,-0.9699999999999998,0.03000000000000025,1.0,efficient frontier
+8,6.28,7.19,0.87,-0.7199999999999998,0.28000000000000025,1.25,efficient frontier
+9,6.53,8.37,0.78,-0.46999999999999975,0.5300000000000002,1.5,efficient frontier
+10,6.78,9.6,0.71,-0.21999999999999975,0.7800000000000002,1.75,efficient frontier
+11,7.02,10.86,0.65,0.019999999999999574,1.0199999999999996,1.9899999999999993,efficient frontier
+12,7.27,12.14,0.6,0.2699999999999996,1.2699999999999996,2.2399999999999993,efficient frontier
+13,7.52,13.44,0.56,0.5199999999999996,1.5199999999999996,2.4899999999999993,efficient frontier
+14,7.77,14.76,0.53,0.7699999999999996,1.7699999999999996,2.7399999999999993,efficient frontier
+15,8.01,16.08,0.5,1.0099999999999998,2.01,2.9799999999999995,efficient frontier
+16,8.26,17.41,0.47,1.2599999999999998,2.26,3.2299999999999995,efficient frontier
+17,8.51,18.74,0.45,1.5099999999999998,2.51,3.4799999999999995,efficient frontier
+18,8.76,20.08,0.44,1.7599999999999998,2.76,3.7299999999999995,efficient frontier
+19,5.03,3.04,,,,,mean liability
+20,5.03,3.12,,,,,mean liability
+21,5.03,3.31,,,,,mean liability
+22,5.03,3.59,,,,,mean liability
+23,5.03,3.93,,,,,mean liability
+24,5.03,4.38,,,,,mean liability
+25,5.03,5.13,,,,,mean liability
+26,5.03,6.09,,,,,mean liability
+27,5.03,7.19,,,,,mean liability
+28,5.03,8.37,,,,,mean liability
+29,5.03,9.6,,,,,mean liability
+30,5.03,10.86,,,,,mean liability
+31,5.03,12.14,,,,,mean liability
+32,5.03,13.44,,,,,mean liability
+33,5.03,14.76,,,,,mean liability
+34,5.03,16.08,,,,,mean liability
+35,5.03,17.41,,,,,mean liability
+36,5.03,18.74,,,,,mean liability
+37,5.03,20.08,,,,,mean liability
+38,-6.758478613506236,3.04,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+39,-5.089762246854889,3.31,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+40,-2.8743833068975246,3.93,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+41,0.31608296705829175,5.13,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+42,1.1500624516647187,7.19,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+43,-1.6277519426159524,9.6,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+44,-4.649486471953547,12.14,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+45,-7.784707913100376,14.76,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+46,-10.998234736224184,17.41,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+47,-14.22607351776124,20.08,,,,,"risk adjusted surplus: N(5.03%, 6.06%)"
+48,-0.7300000000000004,3.04,,,,,arithmetic mean surplus
+49,-0.23000000000000043,3.31,,,,,arithmetic mean surplus
+50,0.2599999999999998,3.93,,,,,arithmetic mean surplus
+51,0.7599999999999998,5.13,,,,,arithmetic mean surplus
+52,1.25,7.19,,,,,arithmetic mean surplus
+53,1.75,9.6,,,,,arithmetic mean surplus
+54,2.2399999999999993,12.14,,,,,arithmetic mean surplus
+55,2.7399999999999993,14.76,,,,,arithmetic mean surplus
+56,3.2299999999999995,17.41,,,,,arithmetic mean surplus
+57,3.7299999999999995,20.08,,,,,arithmetic mean surplus
